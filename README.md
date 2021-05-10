@@ -13,6 +13,7 @@
 ### Steps to run app locally
 * Clone the repo  
 * Go into the **WidgetApp** folder 
+* run -> **npm install package.json**
 * run -> **npm start** 
 * The app should open at **localhost:3000**
 
