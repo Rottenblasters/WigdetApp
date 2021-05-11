@@ -17,3 +17,4 @@
 * run -> **npm start** 
 * The app should open at **localhost:3000**
 
+### To view the app [link](https://lucid-bardeen-f30d82.netlify.app)
