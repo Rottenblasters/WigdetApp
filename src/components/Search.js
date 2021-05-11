@@ -18,7 +18,6 @@ const Search = () => {
                     srsearch: term
                 }
             });
-            console.log(data.query.search);
             setResults(data.query.search);
         };
 
